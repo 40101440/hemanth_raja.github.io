@@ -1,6 +1,8 @@
 title: 2025
 theme: minima
 
+baseurl: "/hemanth_raja"
+
 plugins:
   - jekyll-paginate
 
